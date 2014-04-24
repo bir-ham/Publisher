@@ -1,0 +1,1 @@
+update user set password='D033E22AE348AEB5660FC2140AEC35850C4DA997' where id=1;
